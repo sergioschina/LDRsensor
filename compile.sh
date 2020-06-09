@@ -1,0 +1,1 @@
+cd src && avra main.asm && cd ..
