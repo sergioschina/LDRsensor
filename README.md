@@ -9,6 +9,8 @@ Implementation of a brightness sensor to turn on a light using basic components 
 - Light Sensor (LDR)
 - Lamp
 
-
 ### Software:
 - [Proteus](https://www.labcenter.com/) 
+
+### Language:
+- Assembly
