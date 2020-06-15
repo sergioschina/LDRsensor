@@ -11,6 +11,7 @@ Implementation of a brightness sensor to turn on a light using basic components 
 
 ### Software:
 - [Proteus](https://www.labcenter.com/) 
+- avrdudess 2.4 (avrdude version 6.1)
 
 ### Language:
 - Assembly
