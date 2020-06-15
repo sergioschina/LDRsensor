@@ -5,9 +5,8 @@ Implementation of a brightness sensor to turn on a light using basic components 
 
 ### Hardware:
 - Microcontroller Atmega328p
-- Relay
 - Light Sensor (LDR)
-- Lamp
+- Lamp / LED
 
 ### Software:
 - [Proteus](https://www.labcenter.com/) 
